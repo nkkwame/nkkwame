@@ -22,9 +22,10 @@ Visit [nkkwame.github.io](https://nkkwame.github.io/) for my portfolio, blog pos
 ## ❤️ My Stats
 - ![nkkwame's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkkwame&show_icons=true&theme=radical)
 
+- ![GitHub Streak](https://streak-stats.demolab.com?user=nkkwame&theme=radical)
+
 ## My Language Cards
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkkwame&layout=compact)
-- 
 
 ## 📫 Get in Touch
 Feel free to connect with me, open an issue, or start a discussion if you want to collaborate or chat about tech!
