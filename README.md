@@ -19,6 +19,13 @@ Visit [nkkwame.github.io](https://nkkwame.github.io/) for my portfolio, blog pos
 - Tech tutorials and documentation
 - Automation and productivity tools
 
+## ❤️ My Stats
+- ![nkkwame's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkkwame&show_icons=true&theme=radical)
+
+## My Language Cards
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkkwame&layout=compact)
+- 
+
 ## 📫 Get in Touch
 Feel free to connect with me, open an issue, or start a discussion if you want to collaborate or chat about tech!
 
